@@ -7,8 +7,12 @@ To fetch lat,lon, api.mapbox.com webservice is used and to get the weather detai
 #Dependencies
 
 sendgrid/mail
+
 express
+
 hbs
+
 multer
+
 request
 
